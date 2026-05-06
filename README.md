@@ -80,7 +80,7 @@ signal-diagnostic/
 │   ├── index.js            ← Point d'entrée React
 │   └── App.js              ← L'application complète (tout est ici)
 ├── package.json            ← Configuration du projet
-└── vercel.json             ← Configuration Vercel 
+└── vercel.json             ← Configuration Vercel
 ```
 
 ---

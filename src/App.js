@@ -782,9 +782,9 @@ export default function App() {
                 <button
                   className="cta-result"
                   style={{ background: profile.color, color: "#0A0908", fontWeight: 400 }}
-                  onClick={() => window.open('mailto:contact@tonsite.fr?subject=Suite au diagnostic SIGNAL', '_blank')}
+                  onClick={() => window.open('https//calendly.com/cercledevie/nouvelle-reunion?subject=Suite au diagnostic SIGNAL', '_blank')}
                 >
-                  Prendre rendez-vous
+                  Reserve ton appel découverte
                 </button>
                 <button className="cta-secondary" onClick={restart}>Recommencer</button>
               </div>

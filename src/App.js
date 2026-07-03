@@ -786,7 +786,7 @@ export default function App() {
                 >
                   Reserve ton appel découverte
                 </button>
-                <button className="cta-secondary" onClick={restart}>Recommencer</button>
+                <button className="cta-secondary" onClick={()>window.location.href = 'https://calendly.com/cercledevie/nouvelle-reunion}>Reserve ton appel découverte</button>
               </div>
               <p style={{ fontFamily: "'Josefin Sans', sans-serif", fontSize: 9, letterSpacing: "0.3em", color: "rgba(232,224,213,0.15)", textTransform: "uppercase", marginTop: 40 }}>
                 Signal — Alignement Identitaire
